@@ -28,7 +28,7 @@ NEHRA CLASSES RPM Package for a Login Animation (Works on all fedora based Linux
 Clone the repository:
 # git clone https://github.com/nehraclasses/Linux-Software-Package-RPM-Files
 
-Move to the directory containing the game RPM file.
+Move to the directory containing the RPM file.
 # cd Linux-Software-Package-RPM-Files
 
 List the RPM file. (Optional)
